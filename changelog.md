@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2] - 2025-06-15
+
+### Added
+- Deployment configuration for Vercel
+- Updated documentation for hosting the site publicly
+- Improved build process for production deployment
+
 ## [1.0.1] - 2025-06-15
 
 ### Added
